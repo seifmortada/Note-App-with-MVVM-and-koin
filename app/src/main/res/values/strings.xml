@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dependency injection example</string>
+    <string name="there_is_no_notes">There is no notes :(!</string>
+</resources>
